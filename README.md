@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WellyngtonMolinari
 - 👀 I’m interested in programming and machine learning.
 - 🌱 I’m currently learning C, HTML5, CSS, JavaScript.
-- 💞️ I’m working to make better people life.
+- 💞️ I’m working on new projects ideas
 - 📫 You can contact me via profile messages.
 
 <!---
