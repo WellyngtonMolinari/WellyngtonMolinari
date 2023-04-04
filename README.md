@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WellyngtonMolinari
-- 👀 I’m interested in programming and machine learning.
-- 🌱 I’m currently learning C, HTML5, CSS, JavaScript.
-- 💞️ I’m working on new projects ideas and working as freelancer
+- 👀 I'm musician, car mechanic and developer
+- 💞️ I’m working as freelancer and looking for new challenges
 
 <!---
 WellyngtonMolinari/WellyngtonMolinari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
