@@ -2,7 +2,7 @@
 - 👀 I'm musician, car mechanic and web developer
 - 💞️ I’m working as freelancer in my city and looking for new real world challenges
 
-* Helpful links * (under construction)
+ Helpful links * (under construction)
 - https://github.com/apptension/developer-handbook
 - https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#I-am-a-1
 - https://github.com/practical-tutorials/project-based-learning
