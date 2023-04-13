@@ -4,7 +4,7 @@
 
 Helpful links:
 - https://github.com/apptension/developer-handbook
-- https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#I-am-a-1
+- https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner
 - https://github.com/practical-tutorials/project-based-learning
 - https://github.com/topics/javascript
 - https://www.freecodecamp.org/
