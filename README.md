@@ -1,3 +1,3 @@
 - 👋 Heey, Welcome to my profile! I’m @WellyngtonMolinari !
-- 👀 I'm musician, car mechanic and web developer
+- 👀 I'm computer technician, musician, car mechanic and web developer
 - 💞️ I’m working as freelancer in my city and looking for new real world challenges
